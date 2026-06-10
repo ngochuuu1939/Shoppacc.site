@@ -1,0 +1,10 @@
+# Bỏ qua file cấu hình local
+config.local.php
+
+# IDE
+.vscode/
+.idea/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
